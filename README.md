@@ -1,41 +1,35 @@
-![logo](https://github.com/nodrits/nodrits/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Nouman Asif</h1>
-<h3 align="center">Full Stack Web Developer & Systems Architect From Pakistan</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img src="./hero.svg?v=1" width="100%" alt="Nouman Asif — Full-Stack Web Developer, Founder @ Nodrits Solutions" />
 
+<img src="./about-life.svg?v=1" width="100%" alt="What I build — websites, apps & AI systems" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nodrits&label=Profile%20views&color=0e75b6&style=flat" alt="nodrits" /> </p>
+<img src="./stack.svg?v=1" width="100%" alt="My stack — tech that ships" />
 
-- 🔭 I’m currently working on **E‑Commerce Web App**
+<img src="./id-dashboard.svg?v=1" width="100%" alt="ID badge and live dashboard" />
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS, and TypeScript**
+<img src="./profile-3d-contrib/profile-green-animate.svg?v=1" width="100%" alt="3D contribution graph" />
 
-- 👯 I’m looking to collaborate on **Open Source UI Libraries**
+<img src="./connect.svg?v=1" width="100%" alt="Connect with Nouman Asif" />
 
-- 🤝 I’m looking for help with **Performance Optimization in React**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://nodrits.vercel.app](https://nodrits.vercel.app)
+## 🚀 Projects
 
-- 📝 I regularly write articles on [https://nodrits.vercel.app/](https://nodrits.vercel.app/)
+| Project | What it is | Tech |
+|---|---|---|
+| [school-management-system](https://github.com/nodrits/school-management-system) | Static school management web app — students, teachers, fees & receipts | JavaScript |
+| [nodrits-website](https://github.com/nodrits/nodrits-website) | Nodrits Solutions — company website | HTML |
+| [nodrits-blog](https://github.com/nodrits/nodrits-blog) | Nodrits Solutions — blog | HTML |
+| [agh](https://github.com/nodrits/agh) | Complete website for Ammara Girls Hostel | TypeScript |
+| [Truth-Seeker](https://github.com/nodrits/Truth-Seeker) | A Bible study app | TypeScript |
+| [github-green-graph](https://github.com/nodrits/github-green-graph) | Contribution graph experiments | JavaScript |
+| [GitHub_Graph](https://github.com/nodrits/GitHub_Graph) | Hack GitHub contribution graph | JavaScript |
+| [simple-article-listing](https://github.com/nodrits/simple-article-listing) | Clean, responsive article listing component — semantic HTML5, vanilla CSS3, mobile-first | HTML |
+| [join-our-newsletter](https://github.com/nodrits/join-our-newsletter) | Newsletter signup component | HTML |
+| [faq-challenge](https://github.com/nodrits/faq-challenge) | FAQ component | HTML |
+| [minimal-blog-card](https://github.com/nodrits/minimal-blog-card) | Minimal blog card component | HTML |
+| [nodrits](https://github.com/nodrits/nodrits) | This profile — animated README | — |
+| [dfhfs](https://github.com/nodrits/dfhfs) | — | — |
 
-- 💬 Ask me about **React, Vue, GSAP, and UI/UX design**
-
-- 📫 How to reach me **nodrits@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JfTsIZS_uF5paNgz1RqwJJm4QKJldgnN/edit?usp=drive_link&ouid=111080435586506300470&rtpof=true&sd=true](https://docs.google.com/document/d/1JfTsIZS_uF5paNgz1RqwJJm4QKJldgnN/edit?usp=drive_link&ouid=111080435586506300470&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I debug faster with chai in hand ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nodrits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nodrits" height="30" width="40" /></a>
-<a href="https://instagram.com/nodrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nodrites" height="30" width="40" /></a>
-<a href="https://www.behance.net/nodrits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nodrits" height="30" width="40" /></a>
-<a href="https://medium.com/@nodrits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nodrits" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nodrits&" alt="nodrits" /></p>
+> Portfolio: [nouman-asif-portfolio.vercel.app](https://nouman-asif-portfolio.vercel.app) · More on [nodrits.vercel.app](https://nodrits.vercel.app/)
